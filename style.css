@@ -31,3 +31,8 @@ figure {
   margin-right: auto;
   margin-left: auto;
 }
+
+#details div {
+  display: block;
+  float: left;
+}
