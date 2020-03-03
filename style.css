@@ -26,6 +26,6 @@ figure {
 }
 
 #featured-property p {
-  text-align: center;
-  display: float;
+  display: block;
+  float: left;
 }
